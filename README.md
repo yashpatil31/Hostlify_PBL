@@ -100,7 +100,8 @@ Your machine must have latest version of npm installed.
 ## Teammates
 
 - [Vishvam Pawar](https://www.linkedin.com/in/vishvam-pawar-44a667205/)
-- [Yash Patil]()
+- [Shubham Pitale](https://www.linkedin.com/in/shubham-pitale-b07692218/)
+- [Yash Patil](https://www.linkedin.com/in/yash-patil-665382239)
 - [Gargi Mhaskar](https://www.linkedin.com/in/gargi-mhaskar-097469208/)
 - [Sourav Mohanty](https://www.linkedin.com/in/saurav-mohanty2002/)
 
@@ -108,7 +109,7 @@ Your machine must have latest version of npm installed.
 
 ## Contact
 
-[Shubham Pitale](https://www.linkedin.com/in/shubham-pitale-b07692218/) - shubhampitale45@gmail.com
+[Yash Patil](https://www.linkedin.com/in/yash-patil-665382239) - yashvaibhavps3128@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
